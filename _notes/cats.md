@@ -1,5 +1,13 @@
 ---
 title: A note about cats
+Status: null
+Tags: help tag
+Type:
+  - Articles
+
+Related: null
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.creation_date("YYYY-MM-DD hh:mm") %>
 ---
 
 This is a second note with a poem with cats. 
