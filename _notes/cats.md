@@ -2,7 +2,7 @@
 title: A note about cats
 subtitle: test subtitle
 Status: null
-Tags: [tag_1, tag_2]
+tags: [tag_1, tag_2]
 Type:
   - Articles
 

@@ -1,7 +1,7 @@
 ---
 title: important
 Status: null
-tags: [tag_1, tag_2]
+tags: [tag_2]
 type:
   - Articles
 aliases: []
