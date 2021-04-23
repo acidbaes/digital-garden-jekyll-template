@@ -16,6 +16,7 @@ modification_date: <% tp.file.creation_date("YYYY-MM-DD hh:mm") %>
 
 Test tags etc
 Xxxx
+![[attachments/google.png]]
 
 ```mermaid 
 graph TD;  
