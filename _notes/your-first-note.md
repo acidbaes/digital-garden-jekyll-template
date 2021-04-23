@@ -8,14 +8,14 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 ### Link syntax
 
-To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
+To link to another note, you can use [[multiple syntaxes.]] The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
 
-- Using the note title: [[a note about cats]]
-- Using the note's filename: [[cats]]
-- Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
-- Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
+- Using the note title: [a note about cats](a%20note%20about%20cats)
+- Using the note's filename: [cats](cats.md)
+- Using the note's title, with a label: [link to the note about cats using the note title](A%20note%20about%20cats)
+- Using the note's filename, with a label: [link to the note about cats using the note's filename](cats.md)
 
-In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
+In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [there is no note that matches this link](there%20is%20no%20note%20that%20matches%20this%20link).
 
 Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
 
@@ -39,7 +39,7 @@ Notice in the "Notes mentioning this note" section that there is another note li
 
 ### Link previews
 
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[a note about cats]].
+If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [a note about cats](a%20note%20about%20cats).
 
 ### Images and other Markdown goodies
 

@@ -16,3 +16,11 @@ modification_date: <% tp.file.creation_date("YYYY-MM-DD hh:mm") %>
 
 Test tags etc
 Xxxx
+
+```mermaid 
+graph TD;  
+A-->B;  
+A-->C;  
+B-->D;  
+C-->D;
+```
