@@ -8,10 +8,12 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 ### Link syntax
 
+[[important]]
+
 To link to another note, you can use [[multiple syntaxes.]] The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
 
-- Using the note title: [a note about cats](a%20note%20about%20cats)
-- Using the note's filename: [cats](cats.md)
+- Using the note title: [[a note about cats]]
+- Using the note's filename: [[cats]]
 - Using the note's title, with a label: [link to the note about cats using the note title](A%20note%20about%20cats)
 - Using the note's filename, with a label: [link to the note about cats using the note's filename](cats.md)
 
