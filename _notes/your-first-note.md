@@ -65,6 +65,10 @@ And of course, images look great:
 
 <img src="/assets/image.jpg"/>
 
+![My screenshot](/assets/image.jpg)
+
+![My screenshot](/_notes/attachments/google.jpg)
+
 
 ### Code syntax highlighting
 

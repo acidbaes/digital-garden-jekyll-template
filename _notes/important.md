@@ -18,7 +18,7 @@ Test tags etc
 Xxxx
 ![[attachments/google.png]]
 
-![]('attachments/google.png')
+
 
 ```mermaid 
 graph TD;  
