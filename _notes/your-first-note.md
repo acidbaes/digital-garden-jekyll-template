@@ -65,6 +65,7 @@ And of course, images look great:
 
 <img src="/assets/image.jpg"/>
 
+
 ### Code syntax highlighting
 
 You can add code blocks with full syntax color highlighting by wrapping code snippet in triple backticks and specifying the type of the code (`js`, `rb`, `sh`, etc.):
