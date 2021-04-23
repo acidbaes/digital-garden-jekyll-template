@@ -63,11 +63,12 @@ If you'd like to quote other people, consider using quote blocks:
 
 And of course, images look great:
 
-<img src="/assets/image.jpg"/>
+<img src="/assets/image.png"/>
 
-![My screenshot](/assets/image.jpg)
+X
 
-![My screenshot](/_notes/attachments/google.jpg)
+![My screenshot](attachments/image.png)
+
 
 
 ### Code syntax highlighting
