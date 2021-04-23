@@ -8,7 +8,7 @@ Move your body every day. Benefits include:
 - Increased productivity
 - Reduced anxiety
 
-The "every day" part is important, because [consistency](consistency.md) is key to most things worth doing.
+The "every day" part is important, because [[consistency]] is key to most things worth doing.
 
 tags are here:
 
