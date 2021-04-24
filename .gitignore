@@ -2,7 +2,7 @@
 _site/
 
 # Local assets folder
-_notes/assets/
+_notes/assets
 
 # Sass cache
 .sass-cache/
