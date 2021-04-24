@@ -67,7 +67,7 @@ And of course, images look great:
 
 X
 
-![My screenshot](attachments/image.png)
+// ![My screenshot](assets/image.png)
 
 
 
