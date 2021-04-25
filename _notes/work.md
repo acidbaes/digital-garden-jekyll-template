@@ -1,3 +1,6 @@
+---
+---
+
 New page here
 
 It has an image of 
